@@ -1,0 +1,1 @@
+console.log(" Here We have linked the JS File successfully with HTML file!");
